@@ -1,4 +1,4 @@
-# Class 1 - LEt's play with bootstrap
+# Class 1 - Let's play with bootstrap
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
